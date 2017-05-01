@@ -1,0 +1,11 @@
+edu.cmu.tetrad.algcomparison.algorithm
+edu.cmu.tetrad.algcomparison.algorithm.oracle.pattern
+edu.cmu.tetrad.algcomparison.graph
+edu.cmu.tetrad.algcomparison.independence
+edu.cmu.tetrad.algcomparison.score
+edu.cmu.tetrad.algcomparison.utils
+edu.cmu.tetrad.data
+edu.cmu.tetrad.graph
+edu.cmu.tetrad.search
+edu.cmu.tetrad.stat
+edu.cmu.tetrad.util
